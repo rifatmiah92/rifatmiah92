@@ -53,7 +53,9 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 <br>
 <br>
-## 🌐 Connect with Me & Contact
+
+<h2 align="center">⚡ Connect with Me & Contact ⚡</h2>
+
 <br>
 
 
