@@ -1,4 +1,11 @@
    <!-- <img alt="html5" src="./assets/banner1.png" /> -->
+<p align="center">
+  
+  <h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=👋+Hi,+I'm+Rifat+Miah !;+Welcome+to+my+GitHub+!" alt="Welcome Animation" />
+  </h2>
+
+   
 
 ## About Me 
 
@@ -19,10 +26,6 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-| GitHub Stats | GitHub Streak |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifatMiah&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RifatMiah&theme=transparent&hide_border=true) |
-
 
 
 | GitHub Stats | GitHub Streak |
@@ -34,7 +37,7 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 
 <br>
-<br><br>
+
   
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
