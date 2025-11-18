@@ -48,17 +48,34 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 
 
+<br>
+<br>
+## 🌐 Connect with Me & Contact
+<br>
 
 
+Feel free to reach out to discuss **Junior Full-Stack Development** opportunities, project collaborations, or just to share knowledge! I'm always open to connecting with fellow developers and tech enthusiasts.
+<br>
+<br>
 
-## Contact
-Feel free to reach out to me or connect with me on  [Linkedin](https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v)
+<p align="center">
+  <a href="mailto:hrrifat92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hrrifat92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/abraham-rifat-10b8842a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+  </a>
+  
+  <a href="https://github.com/rifatmiah92">
+    <img src="https://img.shields.io/badge/GitHub-rifatmiah92-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
+  </a>
+  <br>
 
-You can also find me on:
+  <a href="https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Button"/>
+  </a>
+</p>
 
-- **Email**: hrrifat92@gmail.com
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/abufaysal002/)
-- **Facebook** : [Click Here](https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v)
-
-
-Let's connect and discuss exciting opportunities!
+---
+**Let's build something impactful together!** 
