@@ -17,7 +17,7 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 
 
- ## Github Stats
+<h2 align="center">⚡ Stats ⚡</h2>
 
 | GitHub Stats | GitHub Streak |
 |:---:|:---:|
@@ -25,14 +25,13 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 
 
-## 🚀 GitHub Stats
 
 | GitHub Stats | GitHub Streak |
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifatmiah92&show_icons=true&theme=rebel&hide_border=true&include_all_commits=true&count_private=false&line_height=25) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifatmiah92&theme=rebel&hide_border=true) |
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 <br><br>
   
