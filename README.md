@@ -31,7 +31,7 @@ Feel free to reach out to me or connect with me on  [Linkedin](https://www.faceb
 
 You can also find me on:
 
-- **Email**: faysal@programming-hero.com
+- **Email**: hrrifat92@gmail.com
 - **Linkedin**: [Click Here](https://www.linkedin.com/in/abufaysal002/)
 - **Facebook** : [Click Here](https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v)
 
