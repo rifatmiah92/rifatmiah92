@@ -1,9 +1,40 @@
    <!-- <img alt="html5" src="./assets/banner1.png" /> -->
-<p align="center">
+<div align="center" style="
+  background: #f7f7f7; /* Subtle light background for contrast */
+  padding: 30px 20px; 
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  margin-bottom: 20px;
+">
   
-  <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=👋+Hi,+I'm+Rifat+Miah !;+Welcome+to+my+GitHub+!" alt="Welcome Animation" />
+  <h1 style="font-size: 3em; margin-bottom: 10px; color: #333;">
+    👋 Hello there! 
+  </h1>
+  
+  <h2 style="
+    font-size: 2.5em; 
+    margin: 5px 0 15px; 
+    font-weight: 700;
+    /* Neon Blue/Teal Gradient for a modern look */
+    background: linear-gradient(90deg, #00C6FF, #0072FF); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  ">
+    I'm Rifat Miah
   </h2>
+  
+  <h3 style="font-size: 1.2em; color: #61dafb; font-weight: 500;">
+    Junior Full Stack Developer | MERN Stack Enthusiast
+  </h3>
+  
+  <p style="margin-top: 20px; font-size: 1.1em; color: #555;">
+    Welcome to my GitHub profile. Let's connect and build something impactful together! 🚀
+  </p>
+</div>
+
+---
 
    
 
