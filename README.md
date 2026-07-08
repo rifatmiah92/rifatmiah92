@@ -9,7 +9,7 @@
 
 <br/>
 
-<h2 align="center">A passionate MERN stack developer</h2>
+
 
 ---
 
