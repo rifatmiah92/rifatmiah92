@@ -26,12 +26,23 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 | **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                                                                                                                                                                                                               |
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)                                                                                                                                                                                                                                                         |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
-
 <h2 align="center">⚡ Stats ⚡</h2>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=rifatmiah92&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=rifatmiah92&theme=radical" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-| GitHub Stats | GitHub Streak |
-|:---:|:---:|
-| ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rifatmiah92&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=false&line_height=25&cache_seconds=86400&v=1) | ![GitHub Streak](https://streak-stats.demolab.com/?user=rifatmiah92&theme=react&border=61dafb&hide_border=true&v=1) |
+
 
 <br>
   
