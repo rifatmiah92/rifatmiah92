@@ -1,32 +1,49 @@
-<img src="./img/rifat.png" ></img>
+<div align="center">
+
+<!-- Matrix-style animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff41&height=220&section=header&text=Rifat%20Miah&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+
 
 <br/>
-<!-- Animated Typing Intro -->
-  <p align="center">
-    <a href="https://github.com/rifatmiah92">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;CS+Engineering+Student;Tech+Writer+%26+Educator" alt="Typing SVG" />
-    </a>
-  </p>
-<p align="center">
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=rifatmiah92&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/rifatmiah92?label=Followers&style=flat-square&color=28a745" alt="Followers" />
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-cyan.svg?style=flat-square" alt="Maintained" />
-  </p>
-</p>
+<!-- Terminal-style typing animation -->
+<a href="https://github.com/rifatmiah92">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=root%40rifat%3A~%24+whoami;MERN+Stack+Developer;Cyber+Security+Enthusiast;Tech+Writer+%26+Educator;sudo+access+granted+%E2%9C%93" alt="Typing SVG" />
+</a>
 
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=rifatmiah92&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rifatmiah92?label=Followers&style=for-the-badge&color=00ff41&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Maintained%3F-Yes-00ff41.svg?style=for-the-badge" alt="Maintained" />
 
+<br/>
+
+<!-- Snake contribution animation -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 ---
 
-## About Me 
 
-Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer** with a strong focus on **MERN-stack** technologies like React.js and Node.js. I love **sharing knowledge and teaching** through educational content. If you want to learn more about what I do and read my **Articles**, you can follow me. Outside of coding, I enjoy **writing and reading technical articles**.
 
-<h3>When I code, I rely on</h3>
+<div align="center">
+
+##  About Me
+</div>
+
+I'm **Rifat Miah** — a passionate **Junior Full Stack Developer** with a strong focus on **MERN-stack** technologies like React.js and Node.js. Alongside development, I have a growing interest in **cyber security fundamentals** — I enjoy exploring how systems break so I can build ones that don't. I love **sharing knowledge and teaching** through educational content. Outside of coding, I enjoy **writing and reading technical articles**.
+
 <br/>
+
+
+
+<div align="center">
+
+## ⚙️ Tech Arsenal
+</div>
 <div align="center">
 
 | Category | Technologies |
@@ -40,36 +57,26 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 </div>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
-        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=rifatmiah92&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
-        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=rifatmiah92&theme=radical" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-
-
-<br>
-  
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rifatmiah92&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400&v=1" alt="Top Languages" />
-  </a>
-</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifatmiah92&theme=react-dark&bg_color=20232a&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=rifatmiah92&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=rifatmiah92&theme=highcontrast&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rifatmiah92&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00ff41&text_color=ffffff&icon_color=00ff41&bg_color=0D1117&langs_count=8&layout=compact&border_color=00ff41&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" alt="Top Languages" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifatmiah92&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
 
 <br>
 <br>
@@ -78,49 +85,71 @@ Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer*
 
 <br>
 
-Feel free to reach out to discuss **Junior Full-Stack Development** opportunities, project collaborations, or just to share knowledge! I'm always open to connecting with fellow developers and tech enthusiasts.
-
-<br>
-<br>
-
 <div align="center">
-  
-  <!-- Modern Grid Contact System -->
-  <table border="0" cell-padding="10">
-    <tr>
-      <td>
-        <a href="mailto:hrrifat92@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-hrrifat92%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </td>
-      <td>
-        <a href="www.linkedin.com/in/
-rifat-miah-92-bd
-Vanity URL name
-" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/rifatmiah92" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Follow_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-Reach_Out-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+Feel free to reach out to discuss **Junior Full-Stack Development** opportunities, project collaborations, or just to share knowledge! I'm always open to connecting with fellow developers and tech/security enthusiasts.
+
+<br/>
+
+<a href="mailto:hrrifat92@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-hrrifat92%40gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/rifat-miah-92-bd" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+</a>
+<br/>
+<a href="https://github.com/rifatmiah92" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Reach_Out-00ff41?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook" />
+</a>
+
+</div>
 
  
   <!-- Animated Futuristic Footer -->
 
----
-Let's build something impactful together!
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=500&lines=Let's+build+something+impactful+together!;Connection+established+%E2%9C%93" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f2027&height=120&section=footer" width="100%"/>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<br/>
+
+## 🔐 Security Mindset
+
+```
+[+] Practicing secure coding habits (input validation, auth flows, JWT best practices)
+[+] Learning OWASP Top 10 vulnerabilities & how to prevent them
+[+] Basic exposure to Nmap, Wireshark & Burp Suite for network/web analysis
+[+] Believes: "Write code like an attacker is reading it."
+```
+
+<br/>
+
+## 📊 Live Stats
+
+
+
+## 🏆 Trophy Room
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifatmiah92&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+</div>
+
+<br/>
+
+## 📡 Connect With Me
+
 
 
 
