@@ -44,6 +44,7 @@ I'm **Rifat Miah** — a passionate **Junior Full Stack Developer** with a stron
 
 ## ⚙️ Tech Arsenal
 </div>
+<br/>
 <div align="center">
 
 | Category | Technologies |
@@ -123,32 +124,8 @@ Feel free to reach out to discuss **Junior Full-Stack Development** opportunitie
 
 
 
-<br/>
-
-## 🔐 Security Mindset
-
-```
-[+] Practicing secure coding habits (input validation, auth flows, JWT best practices)
-[+] Learning OWASP Top 10 vulnerabilities & how to prevent them
-[+] Basic exposure to Nmap, Wireshark & Burp Suite for network/web analysis
-[+] Believes: "Write code like an attacker is reading it."
-```
-
-<br/>
-
-## 📊 Live Stats
 
 
-
-## 🏆 Trophy Room
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifatmiah92&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</div>
-
-<br/>
-
-## 📡 Connect With Me
 
 
 
