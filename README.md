@@ -89,9 +89,12 @@ I'm **Rifat Miah** — a passionate **Junior Full Stack Developer** with a stron
 
 <br/>
 
-<br>
-<br>
-
+<h2 align="center">⚡ Coding Profiles  ⚡</h2>
+<br/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/oSqxNX2Db0?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="60%"/>
+</div>
+<br/>
 <h2 align="center">⚡ Connect with Me & Contact ⚡</h2>
 
 <br>
