@@ -1,13 +1,21 @@
 <img src="./img/rifat.png" ></img>
 
-<!-- <h1 align="center">Hi 👋, I'm Rifat Miah</h1> -->
-
+<br/>
+<!-- Animated Typing Intro -->
+  <p align="center">
+    <a href="https://github.com/rifatmiah92">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;CS+Engineering+Student;Tech+Writer+%26+Educator" alt="Typing SVG" />
+    </a>
+  </p>
 <p align="center">
 
-
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rifatmiah92&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/rifatmiah92?label=Followers&style=flat-square&color=28a745" alt="Followers" />
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-cyan.svg?style=flat-square" alt="Maintained" />
+  </p>
 </p>
 
-<br/>
 
 
 
@@ -18,14 +26,19 @@
 Hi there! I'm <b>Rifat Miah</b>. I'm a passionate **Junior Full Stack Developer** with a strong focus on **MERN-stack** technologies like React.js and Node.js. I love **sharing knowledge and teaching** through educational content. If you want to learn more about what I do and read my **Articles**, you can follow me. Outside of coding, I enjoy **writing and reading technical articles**.
 
 <h3>When I code, I rely on</h3>
+<br/>
+<div align="center">
 
-|        Skills Overview        | Technologies                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)                                                                                                                                                                                                                                               |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  |
-| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                                                                                                                                                                                                               |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)                                                                                                                                                                                                                                                         |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Core** | <img src="https://skillicons.dev/icons?i=js,py,html,css" alt="Languages" /> |
+| **Frontend Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" /> |
+| **Backend & Auth** | <img src="https://skillicons.dev/icons?i=nodejs,express,jwt" alt="Backend" /> |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases" /> |
+| **Dev Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
+
+</div>
+<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <table>
   <tr>
@@ -70,23 +83,46 @@ Feel free to reach out to discuss **Junior Full-Stack Development** opportunitie
 <br>
 <br>
 
-<p align="center">
-  <a href="mailto:hrrifat92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hrrifat92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
-  </a>
+<div align="center">
   
-  <a href="https://www.linkedin.com/in/abraham-rifat-10b8842a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
-  </a>
-  
-  <a href="https://github.com/rifatmiah92">
-    <img src="https://img.shields.io/badge/GitHub-rifatmiah92-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
-  </a>
-  <br><br>
-  <a href="https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Button"/>
-  </a>
-</p>
+  <!-- Modern Grid Contact System -->
+  <table border="0" cell-padding="10">
+    <tr>
+      <td>
+        <a href="mailto:hrrifat92@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-hrrifat92%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+      <td>
+        <a href="www.linkedin.com/in/
+rifat-miah-92-bd
+Vanity URL name
+" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/rifatmiah92" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Follow_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.facebook.com/rif.at.877570?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-Reach_Out-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+ 
+  <!-- Animated Futuristic Footer -->
 
 ---
-**Let's build something impactful together!**
+Let's build something impactful together!
+
+
+
+
+
