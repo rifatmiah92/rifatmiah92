@@ -70,17 +70,17 @@ I'm **Rifat Miah** — a passionate **Junior Full Stack Developer** with a stron
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rifatmiah92&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00ff41&text_color=ffffff&icon_color=00ff41&bg_color=0D1117&langs_count=8&layout=compact&border_color=00ff41&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" alt="Top Languages" width="60%"/>
 </div>
-<br/>
+<br/> <!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifatmiah92&theme=github_dark" alt="Profile details" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifatmiah92&theme=github_dark&utcOffset=6" alt="Productive time" width="45%"/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifatmiah92&theme=github_dark" alt="Repos per language" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifatmiah92&theme=github_dark" alt="Most commit language" width="45%"/>
-</div>
-
+</div> 
+-->
 <br/>
 
 <div align="center">
@@ -122,7 +122,6 @@ Feel free to reach out to discuss **Junior Full-Stack Development** opportunitie
 </div>
 
  
-  <!-- Animated Futuristic Footer -->
 
 <br/>
 
