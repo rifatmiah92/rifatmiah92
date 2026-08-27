@@ -84,8 +84,9 @@ I'm **Rifat Miah** — a passionate **Junior Full Stack Developer** with a stron
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifatmiah92&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://YOUR-VERCEL-APP-NAME.vercel.app/graph?username=rifatmiah92&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
 
 <br/>
 
